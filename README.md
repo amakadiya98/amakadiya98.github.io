@@ -1,4 +1,4 @@
-# DhruvDoshi.github.io
+# Personal Website
 ![GitHub release](https://img.shields.io/github/release/DhruvDoshi/DhruvDoshi.github.io.svg?style=popout-square)
 [![HitCount](http://hits.dwyl.io/DhruvDoshi/DhruvDoshi.github.io.svg)](http://hits.dwyl.io/DhruvDoshi/DhruvDoshi.github.io)
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://dhruvdoshi.github.io/)
