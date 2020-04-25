@@ -7,6 +7,8 @@
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/DhruvDoshi/DhruvDoshi.github.io.svg)](https://github.com/DhruvDoshi/DhruvDoshi.github.io/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=popout-square)](https://opensource.org/licenses/MIT)
 [![HitCount](http://hits.dwyl.io/DhruvDoshi/DhruvDoshi.github.io.svg)](http://hits.dwyl.io/DhruvDoshi/DhruvDoshi.github.io)
+![visitor badge](https://dhruvdoshi.github.io?page_id=jwenjian.visitor-badge)
+
 
 
 # DhruvDoshi.github.io
